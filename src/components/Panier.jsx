@@ -3,13 +3,13 @@ import { createCommande } from '../lib/supabase';
 
 // ─── Couleurs 110 Street ───────────────────────────────────────
 const C = {
-  primary:    '#1A3A2A',
-  primaryMid: '#2D5E42',
-  gold:       '#B8943F',
-  goldLight:  '#D4AF6A',
-  beige:      '#F5EDD8',
-  cream:      '#FBF8F0',
-  dark:       '#1A1A14',
+  primary:    '#1A1A1A',
+  primaryMid: '#2A2A2A',
+  gold:       '#F5C518',
+  goldLight:  '#FFD740',
+  beige:      '#F5F5F0',
+  cream:      '#FAFAF8',
+  dark:       '#080808',
   darkSoft:   'rgba(0,0,0,0.52)',
   border:     'rgba(245,197,24,0.20)',
   danger:     '#C0392B',
